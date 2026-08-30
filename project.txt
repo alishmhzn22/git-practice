@@ -1,1 +1,4 @@
 learning on how to use git and github with it's commands and the use of terminal
+hotel management system
+inventory managemnt system
+simple games
